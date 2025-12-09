@@ -31,3 +31,18 @@ Built with **Vue.js**, **Flask**, and the **OpenAI API**.
 git clone https://github.com/yourusername/llm-research-assistant.git
 cd llm-research-assistant
 
+---
+
+### 🖥️ Backend Setup (Flask)
+
+#### Install dependencies
+```bash
+cd backend
+pip install -r requirements.txt
+
+### Set your OpenAI API key
+```bash
+export OPENAI_API_KEY="your_key_here"
+
+
+
